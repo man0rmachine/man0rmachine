@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Matt
 #### I'm a videogame maker in Seattle
-![I'm a videogame maker in Seattle](https://man0rmachine.github.io/images/seattle.png)
 
 I like to make games and have fun doing it
 
