@@ -10,5 +10,3 @@ Skills: C# / Unity / Cura / Blender / Ableton / Adobe
 - 👯 I’m looking to collaborate on indie games 
 - 🤔 I’m looking for help with games, design and making life easier 
 - 😄 Pronouns: he/him 
-
-![Profile views](https://gpvc.arturio.dev/man0rmachine)  
