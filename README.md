@@ -3,7 +3,7 @@
 
 I like to make games and have fun doing it
 
-Skills: C# / Unity / Cura / Blender / Ableton / Adobe
+Skills: C# / JS / Unity / Cura / Blender / Ableton / Adobe
 
 - 🔭 I’m currently working on a couple games and personal projects 
 - 🌱 I’m currently learning C#, Unity, level design, UI design, web and others 
